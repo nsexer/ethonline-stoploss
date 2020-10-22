@@ -13,7 +13,7 @@ Impermanent losses for LPs is recognized in the industry as the biggest problem 
 *« :Imp:ermanent losses has become a problem about equal to having an elephant in the living room. It's so big you just can't ignore it. »* — :smiling-imp:
 **
 
-![Banner](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5fd6f7f5-8932-4fe0-804f-ef6ecbfd00b7%2FCCA0D3A6-B21B-4E18-AC14-62F4D135B90E.jpeg?table=block&id=f858c91f-6d9b-4f84-a11a-f4df695ba755&width=2690&userId=&cache=v2)
+![Banner](https://drive.google.com/file/d/1ASTk2jfrNhHe333ZqIdBnjgSnYwyJhGU/view?usp=sharing)
 
 ### Stoploss.finance Alpha specs
 
@@ -23,6 +23,8 @@ The alpha version will allow users on [https://stoploss.finance](https://stoplos
 
 1. Provide Liquidity to the 4 [UNI Pools](https://app.uniswap.org/#/uni) [(](https://uniswap.org/blog/uni/)[ETH/USDT](https://uniswap.info/pair/0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852), [ETH/USDC,](https://uniswap.info/pair/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc) [ETH/DAI](https://uniswap.info/pair/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11) & [ETH/WBTC](https://uniswap.info/pair/0xbb2b8038a1640196fbe3e38816f3e67cba72d940))
 2. Set a stop loss order to limit impermanent losses with a guaranteed amount in Tokens
+
+![MiroBoard](https://drive.google.com/file/d/1gFhqoo0UMI6e-wCAdj6hqIzUdcH3fueW/view?usp=sharing)
 
 Example: 
 
